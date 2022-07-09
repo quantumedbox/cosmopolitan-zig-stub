@@ -1,0 +1,8 @@
+*.o
+*.a
+*.com
+*.com.dbg
+cosmopolitan.zip
+cosmopolitan.h
+ape.lds
+zig-cache/
